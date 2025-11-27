@@ -22,7 +22,7 @@ body {
     justify-content: center;
     align-items: center;
     /* padding: 10px 5px; */
-    background-image: url(/image/OIP.webp);
+    background-image: url(./image/OIP.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50%;
